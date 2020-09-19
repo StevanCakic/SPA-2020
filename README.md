@@ -19,6 +19,7 @@
     - Obilazak stabla
     - Nalazenje minimuma u stablu
     - Brisanje čvorova iz stabla
+    - Prebrojavanje broja cvorova i listova u stablu
   - Sortiranje
     - Selection sort
     - Bubble sort
