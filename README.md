@@ -23,4 +23,19 @@
   - Sortiranje
     - Selection sort
     - Bubble sort
+- Nedelja 7
+  - Kolokvijum
+- Nedelja 8
+  - Merge sort
+  - Quick sort
+  - Heap
+- Nedelja 9 
+  - Backtracking
+  - Dinamicko programiranje
+- Nedelja 10
+  - Grafovi
+- Nedelja 11
+  - Grafovi, nastavak
+- Nedelja 12
+  - Odabrana poglavlja, prakticni Python
     
