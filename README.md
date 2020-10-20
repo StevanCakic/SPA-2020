@@ -31,8 +31,9 @@
   - Heap
 - Nedelja 9
   - Grafovi, predstavljanje i osnovne operacije
+  - DFS, BFS
 - Nedelja 10
-  - Grafovi, DFS, BFS, algoritam Dijkstra
+  - Grafovi, algoritam Dijkstra
 - Nedelja 11 
   - Backtracking
   - Dinamicko programiranje
