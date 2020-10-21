@@ -29,13 +29,14 @@
   - Merge sort
   - Quick sort
   - Heap
-- Nedelja 9 
+- Nedelja 9
+  - Grafovi, predstavljanje i osnovne operacije
+  - DFS, BFS
+- Nedelja 10
+  - Grafovi, algoritam Dijkstra
+- Nedelja 11 
   - Backtracking
   - Dinamicko programiranje
-- Nedelja 10
-  - Grafovi
-- Nedelja 11
-  - Grafovi, nastavak
 - Nedelja 12
   - Odabrana poglavlja, prakticni Python
     
