@@ -4,11 +4,10 @@
   - Obnavljanje
 - Nedelja 2
   - Jednostruko olančane liste
-- Nedelja 3
+- Nedelja 3  
   - Dvostruko olancane liste i kruzne liste
 - Nedelja 4
-  - Stack
-  - Red
+  - Stack i Red
   - Zadaci
 - Nedelja 5
   - Linarno i binarno trazenje
